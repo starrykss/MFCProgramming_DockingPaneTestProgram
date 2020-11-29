@@ -1,8 +1,5 @@
 # Docking Pane Test Program
-A Program to practice and test Docking Pane Windows
-
-# Watch Program
-[2020-11-11] Watch Program with MFC Programming (C++)
+[2020-11-11] A Program to practice and test Docking Pane Windows with MFC Programming (C++)
 
 ### 프로그램 개발 환경
 - Language : C++
